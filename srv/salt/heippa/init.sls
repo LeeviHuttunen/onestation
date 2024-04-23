@@ -1,0 +1,2 @@
+/tmp/saltharjoitus:
+  file.managed
